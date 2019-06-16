@@ -1,0 +1,28 @@
+/* Drop Zone */
+.drop-zone-border{
+  border: dotted 3px lightgray;
+  opacity: 0.5;
+  color: #666;
+  text-align: center;
+}
+.drop-zone {
+
+  background-image: url("./assets/img/drop-images.png");
+  background-repeat: no-repeat;
+  background-size: 128px 128px;
+  background-position: center;
+  padding-bottom: 50%;
+
+}
+
+.file-over { 
+	border: dotted 3px dodgerblue; 
+}
+
+.table { 
+	margin-top: 30px; 
+}
+
+.text-green { 
+	color: green 
+}
