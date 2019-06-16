@@ -1,5 +1,5 @@
 # Demo
-https://dennysjmarquez.github.io/angular-dragdrop-listfiles-firebase-uploader-progressbar/dist/fotosfirebase/#/carga
+https://dennysjmarquez.github.io/angular-dragdrop-listfiles-firebase-uploader-progressbar/dist/fotosfirebase
 
 # Fotosfirebase
 
